@@ -1,0 +1,40 @@
+
+                                                            ║
+          DEPLOY TO VERCEL - 3 SIMPLE COMMANDS            ║
+                                                            ║
+
+Open a NEW terminal window and run these commands:
+
+1️⃣  cd golden-retriever-rescue
+
+2️⃣  vercel login
+    → Click the URL that appears
+    → Login to Vercel (or sign up - FREE!)
+    → Press ENTER when done
+
+3️⃣  vercel --prod
+    → Press ENTER for all prompts (accept defaults)
+    → Wait 1-2 minutes
+    → Get your live URL! 🎉
+
+
+
+YOUR LIVE WEBSITE WILL BE:
+https://golden-retriever-rescue-xxxxx.vercel.app
+
+ADMIN LOGIN:
+https://your-url.vercel.app/admin/login
+Username: theunknown
+Password: cameroon12
+
+
+
+ALTERNATIVE METHOD (No Terminal):
+1. Go to: https://vercel.com/new
+2. Drag & drop the golden-retriever-rescue folder
+3. Click "Deploy"
+4. Done! ✨
+
+
+
+See DEPLOY-NOW.md for detailed step-by-step instructions!
